@@ -1,0 +1,73 @@
+{
+    "projects": [
+        {
+            "id": 0,
+            "project_name": "Random Quote Generator",
+            "description": "This program randomly displays a quote when the user clicks a button.",
+            "technologies": ["Javascript", "CSS", "HTML", "Github", "Visual Studio Code"],
+            "live_link": "https://hclarke26.github.io/Project-1-Random-Quote-Generator/",
+            "github_link": "https://github.com/HClarke26/Project-1-Random-Quote-Generator",
+            "image_urls": [
+                "/static/images/project-1_main.png",
+                "/static/images/project-1_2.png"
+            ]
+        },
+
+        {
+            "id": 1,
+            "project_name": "Data Pagination and Filtering",
+            "description": "For this project I used a common web development technique known as “pagination” in order to improve the usability of a web page.",
+            "technologies": ["Javascript", "CSS", "HTML", "Github", "Visual Studio Code"],
+            "live_link": "https://hclarke26.github.io/Project-2-Data-Pagination-and-Filtering/",
+            "github_link": "https://github.com/HClarke26/Project-2-Data-Pagination-and-Filtering",
+            "image_urls": [
+                "/static/images/project-2_main.png",
+                "/static/images/project-2_2.png"
+            ]
+        },
+
+        {
+            "id": 2,
+            "project_name": "Interactive Form",
+            "description": "For this project I used Javascript to improve an interactive registration form for Full Stack conference.",
+            "technologies": ["Javascript", "CSS", "HTML", "Github", "Visual Studio Code"],
+            "live_link": "https://hclarke26.github.io/Project-3-Interactive-Form/",
+            "github_link": "https://github.com/HClarke26/Project-3-Interactive-Form",
+            "image_urls": [
+                "/static/images/project-3_main.png",
+                "/static/images/project-3_2.png"
+            ]
+        },
+
+        {
+            "id": 3,
+            "project_name": "OOP Game Show App",
+            "description": "In this project I created a brower-based phrase guessing game: Phrase Hunter! ",
+            "technologies": ["Javascript", "CSS", "HTML", "Github", "Visual Studio Code"],
+            "live_link": "https://hclarke26.github.io/Project-4-OOP-Game-Show-App/",
+            "github_link": "https://github.com/HClarke26/Project-4-OOP-Game-Show-App",
+            "image_urls": [
+                "/static/images/project-4_main.png",
+                "/static/images/project-4_2.png",
+                "/static/images/project-4_3.png",
+                "/static/images/project-4_4.png"
+            ]
+        },
+
+        {
+            "id": 4,
+            "project_name": "Public API Requests",
+            "description": "For this project I created an app for a fictional company called Awesome Startup, a distributed company with remote employees working all over the world. They need a smart way for employees to share contact information with each other. I used JavaScript to create an employee directory by communicationg with a third-party API (Application Programming Interface).",
+            "technologies": ["Javascript", "CSS", "HTML", "Github", "Visual Studio Code"],
+            "live_link": "https://hclarke26.github.io/Project-5-Public-API-Requests/",
+            "github_link": "https://github.com/HClarke26/Project-5-Public-API-Requests",
+            "image_urls": [
+                "/static/images/project-5_main.png",
+                "/static/images/project-5_2.png"
+            ]
+        }
+
+
+
+    ]
+}
